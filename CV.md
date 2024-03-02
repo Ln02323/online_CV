@@ -1,2 +1,2 @@
 
-craeteing a cv using HTML & CSS.
+creating a cv using HTML & CSS.
